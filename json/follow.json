@@ -1,0 +1,24 @@
+{
+  "followers": [
+    {
+      "nome": "Campinas Tech Talents",
+      "usuario": "@campinas_tech_talents",
+      "foto": "./img/CampinasTech.jpg"
+
+     
+     
+    },
+    {
+      "nome": "Share RH",
+      "usuario": "@share_rh",
+      "foto": "./img/share.png"
+    },
+    {
+      "nome": "Anheuser-Busch InBev",
+      "usuario": "@abinbev",
+      "foto": "./img/ABInBev.png"
+
+    }
+    
+  ]
+}

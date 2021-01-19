@@ -1,0 +1,40 @@
+{
+  "tweets": [
+    {
+      "nome": "Anheuser-Busch InBev",
+      "usuario": "@abinbev",
+      "data": "Ago 18",
+      "foto": "./img/ABInBev.png",
+      "mensagem": "Venha participar  das Trilhas do Campinas Tech Talents  com apoio da #@abinbev , @share_rh e @campinas_tech_talents  ",
+      "comentarios": 20,
+      "compartilhamentos": 33,
+      "likes": 10,
+      "hashtag": "#Trilha-Abinbev-React #JavaScript #React"
+    },
+   
+    {
+      "nome": "Share RH",
+      "usuario":   "@share_rh",
+      "data": "Ago 15",
+      "foto":"./img/share.png",
+      "mensagem": "A  <strong> @abinbev </strong> está fazendo parte do   #Campinas Tech Talents  oferecendo oportunidades de qualificação em tecnologia , com chances reais de contratação!",
+      "comentarios": 11,
+      "compartilhamentos": 25,
+      "likes": 2,
+      "hashtag": "#Recrutamento #Capacitação"
+      
+    },
+    {
+      "nome": "Campinas Tech Talents",
+      "usuario":  "@campinas_tech_talents",
+      "data": "Ago 15",
+      "foto": "./img/CampinasTech.jpg",
+      "mensagem": " Não fique de fora,aproveite e participe das trilhas do <strong> #Campinas Tech Talents</strong>,com diversas empresas participantes ",
+      "comentarios": 10,
+      "compartilhamentos": 30,
+      "likes": 4,
+      "hashtag": "#Seleção #Acredite no seu talento"
+    }
+    
+  ]
+}
